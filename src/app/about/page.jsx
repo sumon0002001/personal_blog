@@ -21,11 +21,11 @@ const About = () => {
             <h1>3 </h1>
             <p> Years of Experience</p>
           </div>
-          <div>
+          <div className={styles.box}>
             <h1>3 </h1>
             <p> Years of Experience</p>
           </div>
-          <div>
+          <div className={styles.box}>
             <h1>3 </h1>
             <p> Years of Experience</p>
           </div>
